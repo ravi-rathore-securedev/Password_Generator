@@ -21,23 +21,17 @@ This is a React Native application designed to generate strong and secure passwo
 4. Once the app is loaded on your device, you can start generating passwords with the desired options.
 
 ## Download
-You can download the APK file for Android devices from [here](#). *(Add your download link here)*
+You can download the APK file for Android devices from [here](https://drive.google.com/file/d/1fXx1OSZx1Hd1GZ7iAo2mA2HnbegnzjaV/view?usp=sharing)
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![photo_2024-04-04_14-45-02](https://github.com/ravi-rathore-securedev/Password_Generator/assets/115914121/ed7ec774-0391-4476-b6d5-268fdf616053)
+
 
 ## Dependencies
 - React Native
 - React Navigation
 - NativeBase (optional, for UI components)
 
-## Structure
-- `src/components`: Contains reusable components used throughout the app.
-- `src/screens`: Contains screen components representing different views of the app.
-- `src/navigation`: Contains navigation configuration.
-- `src/store`: Contains Redux store configuration and actions.
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
